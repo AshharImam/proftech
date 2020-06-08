@@ -136,6 +136,14 @@ hr.light-100{
 .banner-text h1{
   color: #000;
 }
+#map-container-google-12{
+  width: 100%;
+  padding-top: 0 !important;
+}
+.map{
+  height: 450px;
+  background-color: #bb0000;
+}
 
 
 
